@@ -25,4 +25,4 @@ int main()
     cout << "Salary: " << p1.salary;
 
     return 0;
-
+}
